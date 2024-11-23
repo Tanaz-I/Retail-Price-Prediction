@@ -30,6 +30,14 @@ The **SHAP (SHapley Additive exPlanations)** algorithm is applied to interpret t
 ### 5. Interactive Visualization
 The file `prediction.py` contains the Streamlit app that presents the model's predictions and SHAP visualizations interactively. Users can explore and understand the pricing optimization results through an easy-to-use interface.
 
+## Output
+
+Here is a visualization of the model's output:
+
+![Output Example](global.png)
+
+![Output Example 2](local.png)
+
 
 
 
