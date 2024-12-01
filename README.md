@@ -3,7 +3,7 @@
 ## Overview
 The project aims to predict the price of various Adidas products sold by multiple retailers on the particular day. By considering factors such as price sensitivity, competition, and historical pricing data, the project leverages machine learning techniques to predict the best price per unit for each product across retailers.
 
-##Features
+## Features
 
 ### 1. Dataset Description
 The [Adidas Sales dataset ](https://www.kaggle.com/datasets/afzashaikh/adidas-sales-dataset/data) used in this project is a sales record of Adidas products across six retailers. It includes information such as product prices, units sold, total sales, and other details. The dataset is stored in `data.csv`. dditionally, separate CSV files are created for each retailer after feature engineering steps.
